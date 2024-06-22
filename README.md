@@ -17,5 +17,24 @@ The aim of this starter is to provide a super bare-bones setup for Next.js with 
 ## Getting Started
 
 ```bash
+# Create a new Next.js project using the starter
 bun create next-app@latest -e https://github.com/ixahmedxi/next-minimal-starter
+
+# Navigate into the project
+cd <project-name>
+
+# Install dependencies
+bun install
+
+# Run the app
+bun dev
+
+# Build the app
+bun run build
+
+# Lint
+bun check
+
+# Typecheck
+bun typecheck
 ```
