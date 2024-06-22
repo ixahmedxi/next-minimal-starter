@@ -1,7 +1,7 @@
-import type { Config } from "tailwindcss";
-import typography from "@tailwindcss/typography";
 import aspectRatio from "@tailwindcss/aspect-ratio";
 import containerQueries from "@tailwindcss/container-queries";
+import typography from "@tailwindcss/typography";
+import type { Config } from "tailwindcss";
 
 const config: Config = {
 	content: ["./src/**/*.{js,ts,jsx,tsx,mdx}"],
