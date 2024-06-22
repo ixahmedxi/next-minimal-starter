@@ -1,13 +1,13 @@
 # Minimal Next Starter
 
-> An opinionated super minimal Next.js starter template, alternative to `create-next-app`.
+> An opinionated, super minimal Next.js starter template, alternative to `create-next-app`'s template.
 
 ## Features
 
 - ⚡️ Super fast lint / formatting with [Biome](https://biomejs.dev).
 - 🌚 Dark mode support with [Next Themes](https://github.com/pacocoursey/next-themes).
-- � Full ESM setup.
-- �🔒 Strict TypeScript configuration.
+- ⭐️ Full ESM setup.
+- 🔐 Strict TypeScript configuration.
 - ✍️ Geist Font pre-configured.
 - ✨ Pre-configured with GitHub Actions for CI.
 - 💅 Tailwind plugins like `typography` and `aspect-ratio` pre-installed.
